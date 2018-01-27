@@ -48,4 +48,4 @@ git checkout <navn på endring>
 ```
 
 
-
+:)
